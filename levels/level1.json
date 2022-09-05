@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "type": "none",
+      "count": 12
+    },
+    {
+      "type": "grass-top-left-outter-corner",
+      "count": 1
+    },
+    {
+      "type": "grass-top",
+      "count": 13
+    }
+  ],
+  [
+    {
+      "type": "none",
+      "count": 12
+    },
+    {
+      "type": "grass-left",
+      "count": 1
+    },
+    {
+      "type": "dirt",
+      "count": 13
+    }
+  ],
+  [
+    {
+      "type": "grass-top",
+      "count": 12
+    },
+    {
+      "type": "grass-bottom-right-inner-corner",
+      "count": 1
+    },
+    {
+      "type": "dirt",
+      "count": 13
+    }
+  ],
+  [
+    {
+      "type": "dirt",
+      "count": 26
+    }
+  ],
+  [
+    {
+      "type": "dirt",
+      "count": 26
+    }
+  ]
+]
